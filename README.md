@@ -90,7 +90,7 @@ The application is configured for easy deployment on Replit. The deployment conf
 
 *Interface for managing menu items*
 
-![Managing and Updating Order Statuses](dashboard_catering.jpg)
+![Managing and Updating Order Statuses](dashboard_catering_update.jpg)
 
 *Managing and updating order statuses*
 
