@@ -143,6 +143,9 @@ export default function CustomerHome() {
                         <Clock className="mr-1 h-4 w-4" />
                         <span>Delivery in 45-60 min</span>
                       </div>
+                      <div className="mt-2 text-sm font-medium">
+                        <span>Mulai dari Rp 25.000</span>
+                      </div>
                     </CardContent>
                     <CardFooter>
                       <div className="flex">
@@ -162,4 +165,3 @@ export default function CustomerHome() {
     </div>
   );
 }
-  
