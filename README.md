@@ -73,24 +73,24 @@ The application is configured for easy deployment on Replit. The deployment conf
 ## Screenshots
 
 ### Customer View
-![Customer Homepage Showing Available Merchants](images/dashboard_catering.jpg)
+![Customer Homepage Showing Available Merchants](dashboard_catering.jpg)
 
 *Customer homepage showing available merchants*
 
-![Browsing Menu Items](images/dashboard_office.jpg)
+![Browsing Menu Items](dashboard_office.jpg)
 
 *Browsing menu items from a selected merchant*
 
 ### Merchant View
-![Merchant Dashboard Showing Order Statistics](images/dashboard_catering.jpg)
+![Merchant Dashboard Showing Order Statistics](dashboard_catering.jpg)
 
 *Merchant dashboard showing order statistics*
 
-![Managing Menu Items](images/dashboard_office.jpg)
+![Managing Menu Items](dashboard_office.jpg)
 
 *Interface for managing menu items*
 
-![Managing and Updating Order Statuses](images/dashboard_catering.jpg)
+![Managing and Updating Order Statuses](dashboard_catering.jpg)
 
 *Managing and updating order statuses*
 
