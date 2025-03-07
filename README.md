@@ -94,4 +94,9 @@ The application is configured for easy deployment on Replit. The deployment conf
 
 *Managing and updating order statuses*
 
+### Login View
+![Login Screen](login.jpg)
+
+*Login page for users to access their accounts*
+
 ## Project Structure
