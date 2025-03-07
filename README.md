@@ -99,4 +99,3 @@ The application is configured for easy deployment on Replit. The deployment conf
 
 *Login page for users to access their accounts*
 
-## Project Structure
